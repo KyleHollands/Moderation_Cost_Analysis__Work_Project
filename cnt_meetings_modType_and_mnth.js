@@ -12,7 +12,7 @@ function COUNT_MEETINGS_BY_MOD_TYPE_AND_MONTH(dataRange, month, meetingType) {
 
   //var exclude_sheets = ["Moderators","MOps OKRs","Meeting Volume"];
   var internal_mods = ["Amanda Bustard (GQ)", "Nivetha Velupur (GQ)","Kate Polek (GQ)","Rebecca Trotter (GQ)"]
-  var external_mods = ["Stacy Costa",	"Sachi Lovatt",	"Chantel Espinola",	"Amy Stephenson",	"Lorena Araujo",	"Joanne Janzen",	"Patricia Walker",	"Rebecca Blankfort",	"Becah Machado-Burton",	"Susan Hwang",	"Sandra Tudge",	"Olivia Dutka",	"Caleb Hayward",	"Cody Sharpe",	"Steph Jacobs",	"Amrinder Singh",	"Wendy Dennis",	"Bhavani Kidambi",	"April Scarff",	"Arshpreet Kaur",	"John Harris",	"Gabriela Jungblut","Eric Aspila"]
+  var external_mods = ["Stacy Costa",	"Sachi Lovatt",	"Chantel Espinola",	"Amy Stephenson",	"Lorena Araujo",	"Joanne Janzen",	"Patricia Walker",	"Rebecca Blankfort",	"Becah Machado-Burton",	"Susan Hwang",	"Sandra Tudge",	"Olivia Dutka",	"Caleb Hayward",	"Cody Sharpe",	"Steph Jacobs",	"Amrinder Singh",	"Wendy Dennis",	"Bhavani Kidambi",	"April Scarff",	"Arshpreet Kaur",	"John Harris",	"Gabriela Jungblut","Eric Aspila","Kathleen Speckert","Liona Davies","Eric Szyiko","Andrew Natale","Sheila McFadyen","Leanne Unruh","Sharry Ash","Jaspreet Singh","Eric Gloutnez","Justin Trent","Ren Haskett","Andreane Dicaire","Vidhi Abbi","Fatima Mehrzad","Elisa Brosseau"]
 
   for(var s in allsheets){
     var sheet = allsheets[s]
