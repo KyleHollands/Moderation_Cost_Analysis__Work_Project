@@ -1,2 +1,2 @@
 # Moderation_Cost_Analysis__Work_Project
-This ongoing project consists of gathering, analyzing and visualizing data for our contracted moderation team, and devising methods and new avenues to reduce costs. The project has saved $30,000 in 2023 and is on track to save the company between $150,000 - $200,000 in 2024.
+This ongoing project consists of gathering, analyzing and visualizing data for our contracted moderation team, and devising methods and new avenues to reduce costs. The project has saved $30,000 in 2023 and is on track to save the company between $150,000 - $200,000 in 2024. The scripts that are used in this project to loop through and analyze the many sheets are located here.
